@@ -1,0 +1,37 @@
+
+
+#htitle{
+
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    font-size: xx-large;
+}
+
+#listdiv{
+
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    border-radius: 30px;
+    font-size: large;
+    font-family: monospace;
+    margin: auto;
+    
+}
+
+img{
+width: 230px;
+height: 260px;
+border-radius: 30px;
+}
+
+h1{
+    text-align: center;
+    font-family: monospace;
+    font-size: xxx-large;
+    padding-top: 80px;
+    margin: auto;
+    color: black;
+    background-color: #a98467;
+}
